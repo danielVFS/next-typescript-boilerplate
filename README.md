@@ -31,8 +31,10 @@ Este Boilerplate usa as seguintes tecnologias :
 ```bash
 
 npx create-next-app nome-do-seu-projeto --example https://github.com/danielVFS/next-typescript-boilerplate
+
 # ou
-yarn create next-app nome-do-seu-projeto https://github.com/danielVFS/next-typescript-boilerplate
+
+yarn create next-app nome-do-seu-projeto --example https://github.com/danielVFS/next-typescript-boilerplate
 
 ```
 
